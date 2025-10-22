@@ -50,4 +50,3 @@ void	radix_handle_bit(t_stack **a, t_stack **b, int *counter, int bit)
 	else
 		ra(a, counter);
 }
-
